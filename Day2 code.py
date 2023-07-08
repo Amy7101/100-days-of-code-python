@@ -1,0 +1,5 @@
+print("hello world")
+print(5)
+print("bye")
+print(17*12)
+print(17+12)
